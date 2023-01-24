@@ -14,5 +14,5 @@ In Planning. This page is a stub; I'll edit it when I progress.
 - I plan to explore Fedora for Mobile, but I am still trying to figure out if I can make it work for the deadline.
 - USKEYVISION Vlog Kit Flex-K3 will be helping me with the sound and the light if needed.
 
-###Software
+### Software
 My favorite video editor software is OpenShot so that I will use this initially.
