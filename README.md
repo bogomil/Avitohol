@@ -10,7 +10,7 @@ In Planning. This page is a stub; I'll edit it when I progress.
 
 ## Current setup
 ### Hardware
-- I will be using Volla Phone with Volla OS (based on the Android Opensource project)
+- I will be using the Volla Phone with the privacy respecting, Google-free Android-based [Volla OS](https://github.com/HelloVolla).
 - I plan to explore Fedora for Mobile, but I am still trying to figure out if I can make it work for the deadline.
 - USKEYVISION Vlog Kit Flex-K3 will be helping me with the sound and the light if needed.
 
