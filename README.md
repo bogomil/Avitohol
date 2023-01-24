@@ -1,6 +1,6 @@
 # Avitohol
 ## About
-The project is a pursuit of a dream. The goal is to produce small documentaries on various topics, which will be shot and edited with open-source software only.
+The project is a pursuit of a dream. The goal is to produce small phone-shoot documentaries on various topics, which will be shot and edited with open-source software.
 
 ### Project start
 The project will start with the first video, codenamed "Fedora at FOSDEM 2023." and will take place in Brussels at the beginning of February.
